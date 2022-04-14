@@ -1,0 +1,8 @@
+test2: 6
+test3: 14
+test5: 5
+test6: 15
+test7: 7
+test8: 10
+test10: 18
+.txt
